@@ -1,0 +1,6 @@
+site_name: MkLorum
+nav:
+    - Home: index.md
+    - Test: test.md
+    - About: about.md
+theme: windmill
